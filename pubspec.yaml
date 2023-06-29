@@ -1,7 +1,7 @@
 name: glassy_ui
-description: UI Kit with glassmorphism looking widgets.
-version: 0.0.1
-homepage:
+description: UI Kit with glassmorphism looking widgets just like ios. Works on all platforms.
+version: 0.0.2
+homepage: https://github.com/bruxde/glassy_ui.git
 
 environment:
   sdk: '>=3.0.5 <4.0.0'
